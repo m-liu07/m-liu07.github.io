@@ -19,3 +19,14 @@ div #right{
   height: 700px;
   border: 1px solid blue;
 }
+ul{
+  list-style-type:none;
+  overflow:hidden;
+  background:black;
+}
+li a{
+  display:block;
+  color:white;
+  padding: 5px 5px;
+  text-align:center;
+}
