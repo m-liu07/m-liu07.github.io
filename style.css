@@ -8,13 +8,11 @@ h3{
 div #left{
   float:left;
   overflow-y:scroll;
-  width:500px;
   border: 1px solid red;
 }
 div #right{
   float:right;
   overflow-y:scroll;
-  width: 500px;
   border: 1px solid blue;
 }
 ul{
@@ -22,7 +20,7 @@ ul{
   overflow:hidden;
   padding:0;
   margin:0;
-  background:black;
+  background:gray;
 }
 li{
   display:inline-block;
