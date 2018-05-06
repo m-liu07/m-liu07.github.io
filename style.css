@@ -5,11 +5,13 @@ h3{
   text-align:center;
   color:red;
 }
-#right{
+div#right{
   float:right;
   overflow-y:scroll;
+  width: 500px;
 }
-#left{
+div#left{
   float:left;
   overflow-y:scroll;
+  width:500px;
 }
