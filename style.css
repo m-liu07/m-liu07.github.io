@@ -5,15 +5,15 @@ h3{
   text-align:center;
   color:red;
 }
-div #right{
-  float:right;
-  overflow-y:scroll;
-  width: 500px;
-  border: 1px solid blue;
-}
 div #left{
   float:left;
   overflow-y:scroll;
   width:500px;
   border: 1px solid red;
+}
+div #right{
+  float:right;
+  overflow-y:scroll;
+  width: 500px;
+  border: 1px solid blue;
 }
