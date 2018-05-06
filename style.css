@@ -9,20 +9,21 @@ div #left{
   float:left;
   overflow-y:scroll;
   width:500px;
-  height:700px;
   border: 1px solid red;
 }
 div #right{
   float:right;
   overflow-y:scroll;
   width: 500px;
-  height: 700px;
   border: 1px solid blue;
 }
 ul{
   list-style-type:none;
   overflow:hidden;
   background:black;
+}
+li{
+  float:left;
 }
 li a{
   display:block;
