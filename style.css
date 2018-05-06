@@ -9,13 +9,13 @@ div #left{
   float:left;
   overflow-y:scroll;
   width:600px;
-  height:1000px;
+  height:700px;
   border: 1px solid red;
 }
 div #right{
   float:right;
   overflow-y:scroll;
   width: 600px;
-  height: 1000px;
+  height: 700px;
   border: 1px solid blue;
 }
